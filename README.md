@@ -8,19 +8,19 @@ GDSPROC <br />
 Uniquindío <br />
 </p>
 
-Esta práctica de laboratorio busca retomar aquellos conocimientos y habilidades adquiridos en el espacio académico Lógica de Programación. Para tal fin, se pondrá en práctica aspectos relacionados con la lógica para la creación de programas de computadora y su implementación a través de los lenguajes de programación C y Python.
+Esta práctica de laboratorio busca retomar aquellos conocimientos y habilidades adquiridos en el espacio académico Lógica de Programación. Para tal fin, se pondrá en práctica aspectos relacionados con la lógica para la creación de programas de computadora y su implementación a del lenguaje de programación Python.
 
 En ese sentido, la práctica de laboratorio contempla el repaso de estructuras de programación tales como: declaración de variables, sentencias condicionales, sentencias para ciclos, arreglos y funciones. 
 
 ## Sentencias Condicionales
 
-En esta sección repasará y pondrá en práctica de nuevo las sentencias condicionales del lenguaje de programación C y además conocerá las sentencias equivalentes en el lenguaje de programación Python. Para lo anterior, considere el programa en el archivo [bmi.c](bmi.c) que realiza el cálculo del índice de masa corporal (BMI) para una persona a partir de su peso y de la estatura. 
+En esta sección repasará y pondrá en práctica de nuevo las sentencias condicionales del lenguaje de programación Python. Para lo anterior, considere el programa en el archivo [hrzones.py](hrzones.py) que realiza el cálculo de la frecuencia cardiaca máxima (*Heart Rate*) según la edad para una persona saludable.
 
-1. Compile y ejecute el programa, y realice pruebas con diferentes valores de peso y estatura.
+1. Ejecute el programa y realice pruebas con diferentes valores de edad.
 
-2. Cree un programa a partir de [bmi.c](bmi.c) que le informe al usuario si se encuentra en alguna de las siguientes condiciones: bajo peso, peso normal, sobrepeso u obesidad.
+2. Cree un nuevo programa a partir de [hrzones.py](hrzones.py) que le solicite al usuario el valor de frecuencia cardiaca para un entrenamiento dado y le informe en qué zona de trabajo se realizó el entrenamiento (Z1, Z2, Z3, Z4 o Z5). Ayuda: Use la herramienta de Inteligencia Artificial (IA) Generativa ChatGPT para conocer sobre las zonas de trabajo, no usarlo para generar el código.
 
-3. Mediante la herramienta de Inteligencia Artificial (IA) Generativa ChatGPT, genere el equivalente en Python (bmi.py) del programa [bmi.c](bmi.c). Identifique las similitudes y diferencias entre ambas implementaciones.
+3. Use ChatGPT para generar el código del punto anterior, compare con la implementación realizada por usted.
 
 4. Re-implemente el programa del punto 2 en Python, **esta vez sin usar ChatGPT**.
 
