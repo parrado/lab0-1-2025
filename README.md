@@ -14,7 +14,7 @@ En ese sentido, la práctica de laboratorio contempla el repaso de estructuras d
 
 ## Sentencias Condicionales
 
-En esta sección repasará y pondrá en práctica de nuevo las sentencias condicionales del lenguaje de programación Python. Para lo anterior, considere el programa en el archivo [hrzones.py](hrzones.py) que realiza el cálculo de la frecuencia cardiaca máxima (*Heart Rate*) según la edad para una persona saludable.
+En esta sección repasará y pondrá en práctica de nuevo las sentencias condicionales del lenguaje de programación Python. Para lo anterior, considere el programa en el archivo [hrzones.py](hrzones.py) que realiza el cálculo de la frecuencia cardiaca máxima (*Heart Rate*) según la edad para una persona saludable [[1]](#1).
 
 1. Ejecute el programa y realice pruebas con diferentes valores de edad.
 
@@ -41,7 +41,7 @@ Para lo anterior, considere el programa que construyó en el punto 2 de la secci
 
 1. Realice una modificación al programa para que se le informe al usuario los valores promedio de frecuencia cardiaca para que el entrenamiento se realice en Z2. Para lo anterior, cree una función que realice el cálculo de la frecuencia cardiaca para lograr un entrenamiento Z2 de acuerdo a la edad del usuario.
 
-# Entrega del laboratorio
+## Entrega del laboratorio
 
 El laboratorio debe ser presentado mediante:
 
@@ -49,3 +49,8 @@ El laboratorio debe ser presentado mediante:
 2. Informe de laboratorio.
 
 El informe de laboratorio y el enlace al repositorio de GitHub deben ser compartidos en el enlace dispuesto para tal fin en la plataforma Google Classroom.
+
+## Referencias
+
+<a id="1">[1]</a> 
+Mayo Clinic Staff, "Exercise intensity: How to measure it",url=https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/exercise-intensity/art-20046887.
