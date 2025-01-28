@@ -1,6 +1,6 @@
 # Function to compute maximum heart rate
 def maxHR(age):
-    return 220-age
+    return 208-0.7*age
 
 
 # Ask user for age
