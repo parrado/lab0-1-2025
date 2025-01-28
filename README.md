@@ -39,7 +39,7 @@ Para terminar, en esta sección pondrá en práctica la creación de funciones e
 
 Para lo anterior, considere el programa que construyó en el punto 2 de la sección [Sentencias Condicionales](#sentencias-condicionales).
 
-1. Realice una modificación al programa para que se le informe al usuario los valores promedio de frecuencia cardiaca para que el entrenamiento se realice en Z2. Para lo anterior, cree una función que realice el cálculo de la frecuencia cardiaca para lograr un entrenamiento Z2 de acuerdo a la edad del usuario.
+1. Realice una modificación al programa para que se le informe al usuario los valores promedio de frecuencia cardiaca para que el entrenamiento se realice en Z2. Para lo anterior, cree una función que realice el cálculo de la frecuencia cardiaca para lograr un entrenamiento en Z2 de acuerdo a la edad del usuario.
 
 ## Entrega del laboratorio
 
