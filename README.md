@@ -26,7 +26,7 @@ En esta sección repasará y pondrá en práctica de nuevo las sentencias condic
 
 En esta sección se considerarán las sentencias para ciclos y el uso de arreglos en el lenguaje de programación Python. Para esto, considere los programas de la sección anterior.
 
-1. Cree un programa a partir de ```hrzones2.py``` que solicite al usuario un número de entrenamientos y que posteriormente solicite la frecuencia cardiaca para cada una de ellos, calcular, almacenar e imprimir la zona de trabajo para cada una de los entrenamientos.
+1. Cree un programa a partir de ```hrzones2.py``` que solicite al usuario un número de entrenamientos y que posteriormente solicite la frecuencia cardiaca promedio para cada una de ellos, calcular, almacenar e imprimir la zona de trabajo para cada uno de los entrenamientos.
 2. Modifique el programa del punto 1 para que se calcule e imprima el porcentaje de entrenamientos que se encuentra en cada una de las zonas de trabajo (Z1, Z2, Z3, Z4 y Z5).
 3. Ahora use ChatGPT para generar el código del punto anterior, verifique el correcto funcionamiento del programa generado y compare con la implementación realizada por usted.
 
