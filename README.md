@@ -18,30 +18,28 @@ En esta sección repasará y pondrá en práctica de nuevo las sentencias condic
 
 1. Ejecute el programa y realice pruebas con diferentes valores de edad.
 
-2. Cree un nuevo programa a partir de [hrzones.py](hrzones.py) que le solicite al usuario el valor de frecuencia cardiaca para un entrenamiento dado y le informe en qué zona de trabajo se realizó el entrenamiento (Z1, Z2, Z3, Z4 o Z5). Ayuda: Use la herramienta de Inteligencia Artificial (IA) Generativa ChatGPT para conocer sobre las zonas de trabajo, no usarlo para generar el código.
+2. Cree un nuevo programa (```hrzones2.py```) a partir de [hrzones.py](hrzones.py) que le solicite al usuario el valor de frecuencia cardiaca para un entrenamiento dado y le informe en qué zona de trabajo se realizó el entrenamiento (Z1, Z2, Z3, Z4 o Z5). Ayuda: Use la herramienta de Inteligencia Artificial (IA) Generativa ChatGPT para conocer sobre las zonas de trabajo, **no usarla para generar el código**.
 
-3. Use ChatGPT para generar el código del punto anterior, compare con la implementación realizada por usted.
-
-4. Re-implemente el programa del punto 2 en Python, **esta vez sin usar ChatGPT**.
+3. Ahora use ChatGPT para generar el código del punto anterior, verifique el correcto funcionamiento del programa generado y compare con la implementación realizada por usted.
 
 ## Ciclos y Arreglos
 
-En esta sección se considerarán las sentencias para ciclos y el uso de arreglos en los lenguajes de programación C y Python. Para lo anterior, considere los programas [bmi.c](bmi.c) y bmi.py de la sección anterior.
+En esta sección se considerarán las sentencias para ciclos y el uso de arreglos en el lenguaje de programación Python. Para esto, considere los programas de la sección anterior.
 
-1. Cree un programa a partir de [bmi.c](bmi.c) que solicite al usuario un número de personas y que posteriormente solicite la estatura y peso para cada una de ellas, calcular, almacenar e imprimir el BMI para cada una de las personas.
+1. Cree un programa a partir de ```hrzones2.py``` que solicite al usuario un número de entrenamientos y que posteriormente solicite la frecuencia cardiaca para cada una de ellos, calcular, almacenar e imprimir la zona de trabajo para cada una de los entrenamientos.
+2. Modifique el programa del punto 1 para que se calcule e imprima el porcentaje de entrenamientos que se encuentra en cada una de las zonas de trabajo (Z1, Z2, Z3, Z4 y Z5).
+3. Ahora use ChatGPT para generar el código del punto anterior, verifique el correcto funcionamiento del programa generado y compare con la implementación realizada por usted.
 
-2. Modifique el programa del punto 1 para que se calcule e imprima el porcentaje de personas que se encuentra en alguna de las siguientes condiciones: bajo peso, peso normal, sobrepeso u obesidad.
 
-3. Re-implemente los programas de los puntos 1 y 2 en Python **sin usar ChatGPT**.
 
 
 ## Funciones
 
-Para terminar, en esta sección pondrá en práctica la creación de funciones en los lenguajes de programación C y Python. Recuerde que las funciones son construcciones que permiten crear código modular, escalable y de mayor legibilidad.
+Para terminar, en esta sección pondrá en práctica la creación de funciones en el lenguaje de programación Python. Recuerde que las funciones son construcciones que permiten crear código modular, escalable y de mayor legibilidad.
 
-Para lo anterior, considere los programas que construyó en los puntos 2 y 4 de la sección [Sentencias Condicionales](#sentencias-condicionales).
+Para lo anterior, considere el programa que construyó en el punto 2 de la sección [Sentencias Condicionales](#sentencias-condicionales).
 
-1. Realice una modificación a ambos programas para que se le informe al usuario el peso ideal para lograr la condición de peso normal, esto solo en el caso de que el usuario se encuentre en algunas de las siguientes condiciones: bajo peso, sobrepeso u obesidad. Para lo anterior cree una función que realice el cálculo del peso ideal.
+1. Realice una modificación al programa para que se le informe al usuario los valores promedio de frecuencia cardiaca para que el entrenamiento se realice en Z2. Para lo anterior, cree una función que realice el cálculo de la frecuencia cardiaca para lograr un entrenamiento Z2 de acuerdo a la edad del usuario.
 
 # Entrega del laboratorio
 
