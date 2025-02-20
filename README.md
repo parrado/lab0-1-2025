@@ -1,5 +1,5 @@
 <h1 align="center">
-Lab 0: Lógica de Programación (RA 1) <br />
+Lab 0: Lógica de Programación (RA 1, RA 3 y RA 4) <br />
  </h1>
  <p align="center">
 Alexander López-Parrado, PhD. <br />
